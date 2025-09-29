@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed Jul  3 05:27:03 2024 
+Best design point: 1
+Design specs: 
+	Trining2:MOSFET_CHAR:1	corner	Nominal - 
+Design parameters: 
+	L		2u
+	VDS		1.2
+	VGS		1.2
+	W		10u
+
+Interactive.2
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.2 completed. 
+Current time: Wed Jul  3 05:27:07 2024 

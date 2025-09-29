@@ -1,0 +1,19 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Jul  8 07:09:54 2024 
+Best design point: 1
+Design specs: 
+	Trining2:DAC:1	corner	Nominal - 
+Design parameters: 
+	R		1k
+	RF		47k
+	V0		1
+	V1		1
+	V2		1
+	V3		1
+
+Interactive.5
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.5 completed. 
+Current time: Mon Jul  8 07:09:58 2024 

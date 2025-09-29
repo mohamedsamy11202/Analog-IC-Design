@@ -1,0 +1,18 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed Jul  3 15:46:44 2024 
+Best design point: 1
+Design specs: 
+	Trining2:P_Side:1	corner	Nominal - 
+	deriv(value(IS("/M0/S") "W" 1e-05))		Error	No
+Design parameters: 
+	L		2u
+	VDS		1.2
+	VGS		0
+	W		10u
+
+Interactive.3
+Number of points completed: 1
+Number of simulation errors: 1
+Interactive.3 completed. 
+Current time: Wed Jul  3 15:46:47 2024 

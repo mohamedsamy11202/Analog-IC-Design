@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Jul 13 10:36:13 2024 
+Best design point: 1
+Design specs: 
+	Trining2:Assignment_1:1	corner	Nominal - 
+Design parameters: 
+	VDS		1.8
+	VGS		0
+
+Interactive.63
+Number of points completed: 10
+Number of simulation errors: 0
+Interactive.63 completed. 
+Current time: Sat Jul 13 10:36:37 2024 

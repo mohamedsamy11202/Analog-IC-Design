@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Thu Jul  4 05:52:02 2024 
+Best design point: 1
+Design specs: 
+	Trining2:NOT:1	corner	Nominal - 
+	(fallTime(value(VT("/vout") "Design_Point" 1) 1 nil 0 nil 10 90 nil "time") + riseTime(value(VT("/vout") "Design_Point" 1) 0 nil 1 nil 10 90 nil "time"))		Error	No
+Design parameters: 
+
+Interactive.16
+Number of points completed: 1
+Number of simulation errors: 1
+Interactive.16 completed. 
+Current time: Thu Jul  4 05:52:07 2024 

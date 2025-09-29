@@ -1,0 +1,11 @@
+// VerilogA for Trining2, AND_VerilogA, veriloga
+
+`include "constants.vams"
+`include "disciplines.vams"
+
+module AND_VerilogA(input n1,n2,output p);
+
+	electrical n1,n2,p;
+analog
+	V(p)<+V(n1)&&V(n2);
+endmodule
